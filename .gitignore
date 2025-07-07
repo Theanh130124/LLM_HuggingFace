@@ -1,0 +1,4 @@
+LangChain_RAG/data
+LangChain_RAG/models/all-MiniLM-L6-v2-f16.gguf
+LangChain_RAG/models/vinallama-7b-chat_q5_0.gguf
+LangChain_RAG/venv
